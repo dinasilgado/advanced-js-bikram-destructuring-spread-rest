@@ -64,7 +64,7 @@ console.log(maximaManana);
 
 - [ ] 5.- Escribe una función llamada **sumEveryOther** que pueda recibir cualquier cantidad de números y devuelva la suma de todos los demás argumentos.
 ```
-sumEveryOther(6, 8, 2, 3, 1); //20
+sumEveryOther(11, 3, 12);; //20
 sumEveryOther(11, 3, 12); //26
 ```
 
